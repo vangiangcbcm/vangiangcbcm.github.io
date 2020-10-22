@@ -1,0 +1,21 @@
+Package: com.tqm-mos.audiorecorderxs
+Name: AudioRecorder XS (iOS 12/13)
+Version: 3.2-47
+Description: AudioRecorder
+Author: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), wget
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.audiorecorderxs/icon.png?fe=398
+Installed-Size: 21320
+Section: IOS12
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://vangiangcbcm.github.io/description.html?id=com.tqm-mos.audiorecorderxs
+SileoDepiction: http://vangiangcbcm.github.io/description.html?id=com.tqm-mos.audiorecorderxs
+Homepage: https://www.facebook.com/Giang.QNg/
+Filename: ./debs/com.tqm-mos.audiorecorderxs_3.2-47_iphoneos-arm.deb
+Size: 4730468
+MD5sum: 1119f61fcb44f10d533e94f43c2a07b3
+SHA1: e3744d1599c1f963562d6765cd049d8d243f0300
+SHA256: 1d1b8c78f28edadc2d6eb586017c42a72257206282027d08c3278154a1f49148
