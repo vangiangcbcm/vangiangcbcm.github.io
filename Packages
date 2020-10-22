@@ -1,3 +1,4 @@
+
 Package: com.tqm-mos.audiorecorderxs
 Name: AudioRecorder XS (iOS 12/13)
 Version: 3.2-47
@@ -11,9 +12,9 @@ Installed-Size: 21320
 Section: IOS12
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
-Depiction: http://vangiangcbcm.github.io/description.html?id=com.tqm-mos.audiorecorderxs
-SileoDepiction: http://vangiangcbcm.github.io/description.html?id=com.tqm-mos.audiorecorderxs
-Homepage: https://www.facebook.com/Giang.QNg/
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.audiorecorderxs
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.audiorecorderxs
+Homepage: https://www.facebook.com/Giang.QNg
 Filename: ./debs/com.tqm-mos.audiorecorderxs_3.2-47_iphoneos-arm.deb
 Size: 4730468
 MD5sum: 1119f61fcb44f10d533e94f43c2a07b3
