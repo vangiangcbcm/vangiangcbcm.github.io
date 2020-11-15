@@ -1211,21 +1211,17 @@ Author: Networke <re.errornetwork@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.vangiangcbcm.github.io.audiorecorderxs
+Name: AudioRecorder XS
+Version: 3.0-74
 Architecture: iphoneos-arm
-Version: 3.5-74
-Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.con>
-Installed-Size: 562
-Depends: mobilesubstrate, preferenceloader
+Description: Most Advanced iOS Call Recorder Ever!
+Author: Elias Limneos <limneoselias@gmail.com>
+Section: IOS12
+Depends: mobilesubstrate, preferenceloader,firmware(>=12.0), com.yourepo.tqm.mos
+Conflicts: net.limneos.callrecorder, com.pulandr3s.audiorecorderxs, com.pulandr3s.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandr3s.bioprotectxs, net.pulandr3s.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandr3s.limneosos, com.repo.xarold.com.limneosos
+Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
 Filename: ./debfiles/com.vangiangcbcm.github.io.audiorecorderxs.deb
-Size: 2021
-MD5sum: 5BC91C534E8A8CDA06C3EFD063E2D6AB
-SHA1: B2E1718ADAA63929B9512A0B3A4538BB2A44BE49
-SHA256: 9C7B47A97C7F705C26692D7E3BB426C5C221F15EB1FF83392BFF13C2F0E7F221
-SHA512: c5e2c9ce522bb7ec396b35f72931a982a4f0a339a070905f5b960e9d954d2dfd885db5bfa23f977019789568b39182c337aa70778656f4eb123ce61568bc53021
-Description: YoutubeLite Việt hoá
- Công dụng:
-* Ghi âm cuộc gọi
-Name: Ghi âm cuộc gọi
-Author: Networke <re.errornetwork@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Size: 2069546
+MD5sum: 5bc91c534e8a8cda06c3efd063e2d6ab
+SHA1: b2e1718adaa63929b9512a0b3a4538bb2a44be49
+SHA256: 9c7b47a97c7f705c26692d7e3bb426c5c221f15eb1ff83392bff13c2f0e7f221
