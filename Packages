@@ -2,13 +2,13 @@ Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 392
 Provides: com.supportjailbreak.applibrarydisabler
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: com.supportjailbreak.applibrarydisabler
 Replaces: com.supportjailbreak.applibrarydisabler
-Filename: ./deb/com.Supportjailbreak.applibrarycontrollervietho_1.2_iphoneos-arm.deb
+Filename: ./debfiles/com.Supportjailbreak.applibrarycontrollervietho_1.2_iphoneos-arm.deb
 Size: 66170
 MD5sum: e46fe618dd4aa2aa03fbdeb205104fe1
 SHA1: 54d629f2b519030b259e538aeb5c50e0824f0dd4
@@ -20,7 +20,7 @@ Tag: purpose::extension
 Name: App Library Controller VH
 Depiction: http://bvnsupport-jailbreak.github.io/moreinfo/depiction.php?file=applibrarycontrollerDp
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
-Sponsor: Giang Phạm <http://bvnsupport-jailbreak.github.io>
+Sponsor: Biện Văn Nhật <http://bvnsupport-jailbreak.github.io>
 dev: tomaszpoliszuk
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
@@ -28,9 +28,9 @@ Package: com.Supportjailbreak.shadowviethoa
 Architecture: iphoneos-arm
 Version: 2.0.20
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./deb/com.Supportjailbreak.shadowviethoa_2.0.20_iphoneos-arm.deb
+Filename: ./debfiles/com.Supportjailbreak.shadowviethoa_2.0.20_iphoneos-arm.deb
 Size: 252122
 MD5sum: f04b751a1d697ecd7ea7fccbae0477f6
 SHA1: 7bd1f4caf0dc595cf8e036997bce545435787180
@@ -47,8 +47,8 @@ Architecture: iphoneos-arm
 Version: 6.0
 Essential: yes
 Section: System
-Maintainer: Giang Phạm
-Filename: ./deb/com.bvnsupport.jailbreak.github.io.deb
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.bvnsupport.jailbreak.github.io.deb
 Size: 102988
 MD5sum: 98ae3f10dd7e886505c4fe379fa6fb69
 SHA1: e611d0c045319673731416304100c2e64e8be15b
@@ -56,7 +56,7 @@ SHA256: 65901c3ee4938bfe885d53a0bda4a6ab3aed7e8d410ead6117184962a6ccf65e
 SHA512: 44b0d140278fa2a69e4487805c30d493f65b57c7c7a7554f123e263cfd1b7fc378e2e9ab1b7aad83ef806e4eab1d69eee216beb96b177ba6adc00bc6a7a8b958
 Description: Biểu tượng Cydia cho kho lưu trữ BVN
 Name: BVN-Icon Repo
-Author: Giang Phạm
+Author: Biện Văn Nhật
 Sileodepiction: http://bvnsupport-jailbreak.github.io/sileo-depiction/icon
 Depiction: Biểu tượng Cydia cho kho lưu trữ BVN
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
@@ -65,10 +65,10 @@ Package: com.bvnsupport.tiktokgod
 Architecture: iphoneos-arm
 Version: 1.9.3
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader, com.supportjailbreak.libhdev (>= 4.5.0), firmware (>= 10)
-Filename: ./deb/com.bvnsupport.tiktokgod_1.9.3_iphoneos-arm.deb
+Filename: ./debfiles/com.bvnsupport.tiktokgod_1.9.3_iphoneos-arm.deb
 Size: 74430
 MD5sum: 51e2559ffe01c3de0d75197d1abbb209
 SHA1: a95bcd344811b64dcaf72db2d8012facd434f525
@@ -93,10 +93,10 @@ Package: com.bvnsupportjailbreak.sakuraviethoa
 Architecture: iphoneos-arm
 Version: 1.0.0-1
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 596
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
-Filename: ./deb/com.bvnsupportjailbreak.deb
+Filename: ./debfiles/com.bvnsupportjailbreak.deb
 Size: 261052
 MD5sum: 3e35ab1b2d25c445130d16ab2225f0b4
 SHA1: dfc750be5308ecdd427fbdba3d967426a71d96e1
@@ -123,7 +123,7 @@ Maintainer: Ivano Bilenchi <bienvannhat97@gmail.com>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./deb/com.bvnsupportjailbreak.icleanerproVN_7.9.0_iphoneos-arm.deb
+Filename: ./debfiles/com.bvnsupportjailbreak.icleanerproVN_7.9.0_iphoneos-arm.deb
 Size: 6741746
 MD5sum: 68203a68ee2f06de52dafab88d7f4647
 SHA1: 1782b8850d03194d2498b1ef40f1d328f999ff9c
@@ -140,9 +140,9 @@ Package: com.bvnsupportjailbreak.runroot
 Architecture: iphoneos-arm
 Version: 0.0.2
 Section: System
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 132
-Filename: ./deb/com.bvnsupportjailbreak.runroot_0.0.2_iphoneos-arm.deb
+Filename: ./debfiles/com.bvnsupportjailbreak.runroot_0.0.2_iphoneos-arm.deb
 Size: 9450
 MD5sum: 7e9f912c6103584855e4a11c6af71c25
 SHA1: 8abe9736b320a3f51bef65054c817d8c169971c9
@@ -158,10 +158,10 @@ Package: com.bvsupportjailbreak.fastlsviethoa
 Architecture: iphoneos-arm
 Version: 2.6.3
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 476
 Depends: mobilesubstrate, ws.hbang.common (>= 1.15.1)
-Filename: ./deb/com.bvsupportjailbreak.fastlsviethoa_2.6.3_iphoneos-arm.deb
+Filename: ./debfiles/com.bvsupportjailbreak.fastlsviethoa_2.6.3_iphoneos-arm.deb
 Size: 106092
 MD5sum: a1f6eaf7532fcbd5292b41411a9f926b
 SHA1: a825d33409e6309eb512237a441305bded2fb2e3
@@ -179,7 +179,7 @@ Section: System
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 460
 Pre-Depends: firmware (>= 7.0)
-Filename: ./deb/com.creaturesurvive.libcscolorpicker_1.0.deb
+Filename: ./debfiles/com.creaturesurvive.libcscolorpicker_1.0.deb
 Size: 148402
 MD5sum: e51cd687b7c1d8de723b746e256c4cf3
 SHA1: 063dfc4ead0db5d03f5a7077dae9dc70ba70708d
@@ -195,18 +195,18 @@ Package: com.linusyang.appsyncnew
 Architecture: iphoneos-arm
 Version: 1.4
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 104
 Provides: appsync
 Depends: mobilesubstrate
 Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
-Filename: ./deb/com.linusyang.appsyncnew_1.4_iphoneos-arm.deb
+Filename: ./debfiles/com.linusyang.appsyncnew_1.4_iphoneos-arm.deb
 Size: 9566
 MD5sum: d18dd4c12be6a4546888b07eff98a560
 SHA1: 64cd1c23c0e1cda9c32e4514b5c1cfd276006078
 SHA256: ed45dc8b517cf851c87142c384e6b8842256e6dc9cbeecfdbe0c0e100b7e5475
 SHA512: 0cd2ccc31a1cf00aae713792ad31b3bd45a545618a21f4ce765a05f3985ee7ee6cc9993883a44823b8756ea28e75b662f5860a56f60d19450c4cb37481f0b0f3
-Description: bỏ qua kiểm tra chữ ký của install,cài File IPA,hỗ trợ từ ios 7=>14
+Description: bỏ qua kiểm tra chữ ký của íntalld,cài File IPA,hỗ trợ từ ios 7=>14
 Name: AppSync New
 Author: Linus Yang
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
@@ -215,9 +215,9 @@ Package: com.supportjailbreak.Gesturesi11VN
 Architecture: iphoneos-arm
 Version: 3.5.0
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./deb/com.supportjailbreak.Gesturesi11VN_3.5.0_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.Gesturesi11VN_3.5.0_iphoneos-arm.deb
 Size: 33934
 MD5sum: 57c75ee039ecab928cc1c11207d4f335
 SHA1: 969fa67aa40d7e02218c1a34f9b52774bcaf2231
@@ -235,7 +235,7 @@ Version: 1.9.1
 Section: Tweaks
 Maintainer: Bvnsupport
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Filename: ./deb/com.supportjailbreak.LynxViethoa_1.9.1_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.LynxViethoa_1.9.1_iphoneos-arm.deb
 Size: 1145624
 MD5sum: e7f2755aefaa580947d8e8b1f26b120e
 SHA1: 4a12543f48b815e00dbce229b9ad7e09e8d241c6
@@ -255,7 +255,7 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Biện Vân Nhật <nhatbien97@gmail.com>
 Depends: mobilesubstrate
-Filename: ./deb/com.supportjailbreak.NolockBlurVN_1.0_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.NolockBlurVN_1.0_iphoneos-arm.deb
 Size: 9710
 MD5sum: ecb18475405f9fff81cc8e0c185ca68d
 SHA1: 3829bb2ef6203dcdc2c6f2aad25d92f3183c0d66
@@ -272,7 +272,7 @@ Version: 1.2.9
 Section: Tweaks
 Maintainer: Bvnsupport
 Depends: com.creaturecoding.libcspreferences
-Filename: ./deb/com.supportjailbreak.ShuffleVietnam_1.2.9_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.ShuffleVietnam_1.2.9_iphoneos-arm.deb
 Size: 390612
 MD5sum: 16345c345d0feee114b8d7f77509ac41
 SHA1: 7413d182723c5c2fe3616b719359687a84cd7673
@@ -287,10 +287,10 @@ Package: com.supportjailbreak.amonglockvietho
 Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 24056
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./deb/com.supportjailbreak.amonglockvietho_1.0.2_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.amonglockvietho_1.0.2_iphoneos-arm.deb
 Size: 20363924
 MD5sum: d88897b8094171cfa0bb9065bbd39f49
 SHA1: 324ecb1f22b81421791ae6e832dab129f995540c
@@ -306,11 +306,11 @@ Package: com.supportjailbreak.animplusviethoa
 Architecture: iphoneos-arm
 Version: 1.0-6
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 616
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
 Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
-Filename: ./deb/com.supportjailbreak.animplusviethoa_1.0-6_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.animplusviethoa_1.0-6_iphoneos-arm.deb
 Size: 105850
 MD5sum: 83137f74e6a602c3ccb5d0513ffd169e
 SHA1: e2cb4ca4d939f4e4316717b5f0684ced8d9c7572
@@ -328,7 +328,7 @@ Section: Tweaks
 Maintainer: Bvnsupport <nhatbien97@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: com.unlimapps.uaupdatetools
-Filename: ./deb/com.supportjailbreak.appstore_0.9.13-2_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.appstore_0.9.13-2_iphoneos-arm.deb
 Size: 680200
 MD5sum: e6e2ce2db4ce740e81ccb803d3c27320
 SHA1: dcfb0f6bf8c718576966d2259fabb4982fb4e870
@@ -343,10 +343,10 @@ Package: com.supportjailbreak.b3rryviethoa
 Architecture: iphoneos-arm
 Version: 1.7
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn nhật
 Installed-Size: 1644
 Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.spark.libsparkapplist,com.creaturesurvive.libcscolorpicker
-Filename: ./deb/com.supportjailbreak.b3rryviethoa_1.7_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.b3rryviethoa_1.7_iphoneos-arm.deb
 Size: 1267520
 MD5sum: dd9233e64ad9341ebdc1572e7dbb956a
 SHA1: 05c278929cde0224aa03640b3ff9c6112ddb75e2
@@ -361,9 +361,9 @@ Package: com.supportjailbreak.battsafevithoa
 Architecture: iphoneos-arm
 Version: 1.1.2.4
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.bvnsupportjailbreak.runroot
-Filename: ./deb/com.supportjailbreak.battsafevithoa_1.1.2.4_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.battsafevithoa_1.1.2.4_iphoneos-arm.deb
 Size: 121084
 MD5sum: 49af2695ca2e926657f57435328a8f53
 SHA1: 800025b9860682582738461af9a0d77c439be039
@@ -378,11 +378,11 @@ Package: com.supportjailbreak.boxy4vn
 Architecture: iphoneos-arm
 Version: 4.1.2
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 3464
 Depends: mobilesubstrate, preferenceloader
 Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
-Filename: ./deb/com.supportjailbreak.boxy4vn_4.1.2_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.boxy4vn_4.1.2_iphoneos-arm.deb
 Size: 2828904
 MD5sum: 6b1f4d4ef1e8e1e790198e2aa7a73e61
 SHA1: 4aca8d10d2a5d55aecb551dba845ec15575c1782
@@ -397,10 +397,10 @@ Package: com.supportjailbreak.caskViethoa
 Architecture: iphoneos-arm
 Version: 1.2.0
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 672
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0)
-Filename: ./deb/com.supportjailbreak.caskViethoa_1.2.0_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.caskViethoa_1.2.0_iphoneos-arm.deb
 Size: 272054
 MD5sum: c32fa80393e526621128e70e2c3931ff
 SHA1: 0021efb28c4f02db12fc3764c245864c7ae9dfb3
@@ -415,10 +415,10 @@ Package: com.supportjailbreak.choicyVN
 Architecture: iphoneos-arm
 Version: 1.2.6
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 778
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
-Filename: ./deb/com.supportjailbreak.choicyVN_1.2.6_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.choicyVN_1.2.6_iphoneos-arm.deb
 Size: 165250
 MD5sum: 7efda9e21240e4545feb14cccfdf8d2c
 SHA1: 42d43e47e133d4f9fc688694226298c0d2f3e542
@@ -438,9 +438,9 @@ Package: com.supportjailbreak.cloneappcmd
 Architecture: iphoneos-arm
 Version: 1.0~b3
 Section: Development
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: plutil, com.supportjailbreak.myinst
-Filename: ./deb/com.supportjailbreak.cloneappcmd_1.0~b3_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.cloneappcmd_1.0~b3_iphoneos-arm.deb
 Size: 2764
 MD5sum: e1f2d0f6457d72a7a447cd86e70aad54
 SHA1: 34631fe1573206fa8e83bdebd7b75176c4b5e610
@@ -461,7 +461,7 @@ Section: Tweaks
 Maintainer: Bvnsupport
 Installed-Size: 3196
 Depends: mobilesubstrate
-Filename: ./deb/com.supportjailbreak.complications_3.4.5_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.complications_3.4.5_iphoneos-arm.deb
 Size: 863984
 MD5sum: 343bbf7aef758d7f678473080299f312
 SHA1: a0387941edf7a05c8852b1b5efd41024c39fde95
@@ -476,10 +476,10 @@ Package: com.supportjailbreak.copylogvietho
 Architecture: iphoneos-arm
 Version: 1.5.1
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 4596
 Depends: mobilesubstrate, preferenceloader
-Filename: ./deb/com.supportjailbreak.copylogvietho_1.5.1_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.copylogvietho_1.5.1_iphoneos-arm.deb
 Size: 2322
 MD5sum: ac699b1b432de205aaa47049bed9eb0e
 SHA1: 1b07766f24561abf86e612b2981aa80916f12b91
@@ -487,7 +487,7 @@ SHA256: ea62d54e112a583cb75c66ceabb63b60abbdb87647941d675f2583bbb2e39c34
 SHA512: 02f52289dc95c80dfe1e198496ad59badee6d25d1652e3d008e52a95abbb642207a23795088f508991b7bd1fa3110fd91f43f4c755b672178607f3e6b1ea1e11
 Description: Gói tiếng việt dành cho Copylog!
 Name: CopyLog (Gói tiếng việt)
-Author: Giang Phạm
+Author: Biện Văn Nhật
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjailbreak.cracktool4ios1214
@@ -496,7 +496,7 @@ Version: 4.0
 Section: Utilities
 Maintainer: BvnSupport <nhatbien97@gmail.com>
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./deb/com.supportjailbreak.cracktool4ios1214_4.0_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.cracktool4ios1214_4.0_iphoneos-arm.deb
 Size: 729180
 MD5sum: bd883d929eab228f6da4ec1a599c5403
 SHA1: 2a91753a55627bdd6e474a3b025fd012cd9d1ae4
@@ -511,13 +511,13 @@ Package: com.supportjailbreak.appsyncunified
 Architecture: iphoneos-arm
 Version: 84.0
 Section: Plugin ứng dụng
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 496
 Provides: appsync
 Depends: firmware (>= 5.0), firmware (<= 14.2), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
 Replaces: us.hackulo.appsync50
-Filename: ./deb/com.supportjailbreak.deb
+Filename: ./debfiles/com.supportjailbreak.deb
 Size: 44086
 MD5sum: 22f3cab12d505f67285a08b3ba5496c4
 SHA1: 767b3b68e27672f538dc97339172e23bf3431c84
@@ -526,7 +526,7 @@ SHA512: 1dd8f0edc1fc487a28492de94d0b0f7e361c7d3cee2095f39dba1b307553c15056322892
 Description: Tắt chữ ký IOSApp, kiểm tra phần mềm cần thiết xem có hài hòa không
 Name: AppSync Unified (ios5/14)
 Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
-Sponsor: Giang Phạm <https://bvnsupport-jailbreak.github.io/>
+Sponsor: Biện Văn Nhật <https://bvnsupport-jailbreak.github.io/>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.dockxVN
@@ -537,7 +537,7 @@ Maintainer: Bvnsupport
 Installed-Size: 1368
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
 Conflicts: com.restiveconch.actionbar
-Filename: ./deb/com.supportjailbreak.dockxVN_2.2.3_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.dockxVN_2.2.3_iphoneos-arm.deb
 Size: 436330
 MD5sum: 857fe787af191c752c3dfc71471c5910
 SHA1: f642f47829ec619b0c479fdce309aef4ac005901
@@ -555,7 +555,7 @@ Version: 1.0.0
 Section: Tweaks
 Maintainer: CydiaGeek <nhatbien97@gmail.com>
 Depends: mobilesubstrate
-Filename: ./deb/com.supportjailbreak.fake2sim_1.0.0_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.fake2sim_1.0.0_iphoneos-arm.deb
 Size: 10352
 MD5sum: 5cff0932fe71f128ed938dad67831cb5
 SHA1: 453b8580ea7b90dd867beac86d16513000a73501
@@ -570,11 +570,11 @@ Package: com.supportjailbreak.filza64bit
 Architecture: iphoneos-arm
 Version: 3.8.0-24
 Section: Utilities
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 21680
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza
-Filename: ./deb/com.supportjailbreak.filza64bit_3.8.0-24_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.filza64bit_3.8.0-24_iphoneos-arm.deb
 Size: 8360976
 MD5sum: fcf45f8ac13e83b9742f8b1648409dc7
 SHA1: ee92da0e5a857631fc19937b15e7de507aa81098
@@ -594,7 +594,7 @@ Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmwa
 Recommended: com.rpetrich.rocketbootstrap
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./deb/com.supportjailbreak.flex3beta_1:3~Beta97_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.flex3beta_1:3~Beta97_iphoneos-arm.deb
 Size: 14371334
 MD5sum: e990bfda1b1eb1a635b7f2089155a74e
 SHA1: 7cea566d13b4fcfa85117ffcabef41c9a67a28c9
@@ -613,7 +613,7 @@ Maintainer: Bvnsupport
 Installed-Size: 3712
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.16), com.spark.libsparkapplist, org.thebigboss.libcolorpicker, xyz.tylerd3v.libtylerd3v, me.conorthedev.libappearancecell
 Conflicts: xyz.tylerd3v.genesis, xyz.tylerd3v.genesis13
-Filename: ./deb/com.supportjailbreak.genesis2vietho_1.1.1_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.genesis2vietho_1.1.1_iphoneos-arm.deb
 Size: 2472298
 MD5sum: c5827f854a9a13fb1a0cdfb870b5e825
 SHA1: 38edfd882f8d5b8fe05b2feb0c6847b1237fd1da
@@ -628,11 +628,11 @@ Package: com.supportjailbreak.gesturesi11vn
 Architecture: iphoneos-arm
 Version: 3.5.1
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 364
 Depends: mobilesubstrate, preferenceloader
 Replaces: com.supportjailbreak.gesturesi11
-Filename: ./deb/com.supportjailbreak.gesturesi11vn_3.5.1_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.gesturesi11vn_3.5.1_iphoneos-arm.deb
 Size: 51338
 MD5sum: ae65eeffa38faf7492e06a50c1aab453
 SHA1: a9a1b3381fe1fa8f02775d8f156e7837aa004bdf
@@ -647,10 +647,10 @@ Package: com.supportjailbreak.halfipadVH
 Architecture: iphoneos-arm
 Version: 7.8.9
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 559
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./deb/com.supportjailbreak.halfipadVH_7.8.9_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.halfipadVH_7.8.9_iphoneos-arm.deb
 Size: 114462
 MD5sum: 3252d376fe6958e9483159475360b908
 SHA1: c617c6fba936efd7f2bf4fceb511b6186c716916
@@ -667,10 +667,10 @@ Package: com.supportjailbreak.iconmoveViethoa
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 353
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
-Filename: ./deb/com.supportjailbreak.iconmoveViethoa_1.0.0_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.iconmoveViethoa_1.0.0_iphoneos-arm.deb
 Size: 61660
 MD5sum: f9b6513ceda9e80b4b637914072052f7
 SHA1: 2ecfa0db5cf44567dc32afc5041e9604e72e4c08
@@ -689,9 +689,9 @@ Package: com.supportjailbreak.ios-winter
 Architecture: iphoneos-arm
 Version: 1.2
 Section: Themes
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 4172
-Filename: ./deb/com.supportjailbreak.ios-winter_1.2_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.ios-winter_1.2_iphoneos-arm.deb
 Size: 4028500
 MD5sum: beb5d2593cd065e201dc88cc5ae1f550
 SHA1: 147aacac3b4ee2636e6a5a83cf9530f230581f39
@@ -711,7 +711,7 @@ Section: System
 Maintainer: Hao Nguyen <hao.ict56@gmail.com>
 Installed-Size: 380
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
-Filename: ./deb/com.supportjailbreak.libhdev_4.5.0_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.libhdev_4.5.0_iphoneos-arm.deb
 Size: 72252
 MD5sum: 78fed0008e7f17485793710ae2e372b0
 SHA1: c6e9cdd9cebe24178596c422f6c3dec44e298a74
@@ -727,13 +727,13 @@ Package: com.supportjailbreak.littlexsvirthoa
 Architecture: iphoneos-arm
 Version: 2.4.4
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 332
 Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Filename: ./deb/com.supportjailbreak.littlexsvirthoa_2.4.4_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.littlexsvirthoa_2.4.4_iphoneos-arm.deb
 Size: 35272
 MD5sum: 382757a536cb04c0d72bde279751add0
 SHA1: 953839bd3fa705306fff3336cc7ae6d966aae8de
@@ -748,10 +748,10 @@ Package: com.supportjailbreak.mideviceviethoa
 Architecture: iphoneos-arm
 Version: 2.0.0-3
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 740
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
-Filename: ./deb/com.supportjailbreak.mideviceviethoa_2.0.0-3_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.mideviceviethoa_2.0.0-3_iphoneos-arm.deb
 Size: 224460
 MD5sum: e89e2a597aa83dde4032d4c9c249e08b
 SHA1: 23c674eb86f2d1788b0d80aeee70330d50396161
@@ -769,10 +769,10 @@ Architecture: iphoneos-arm
 Version: 5.6.0.2
 Priority: important
 Section: Archiving
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate, com.supportjailbreak.appsyncunified
-Filename: ./deb/com.supportjailbreak.myinst_5.6.0.2_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.myinst_5.6.0.2_iphoneos-arm.deb
 Size: 92060
 MD5sum: 4d2a81afdb7c1cb81eaab582e9664354
 SHA1: dc6a850e03d00f8b48c35173cd3d75b551e06f68
@@ -794,7 +794,7 @@ Maintainer: BvnSupport <nhatbien97@gmail.com>
 Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.supportjb.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
-Filename: ./deb/com.supportjailbreak.powerselectorios11to14_1.3.0_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.powerselectorios11to14_1.3.0_iphoneos-arm.deb
 Size: 381872
 MD5sum: 67b82f1a73b573620a77acc2cc0a027b
 SHA1: 213b1abcad0e85032192761cf1fd881dd064a26b
@@ -811,7 +811,7 @@ Version: 2.1.1
 Section: Tweaks
 Maintainer: BvnSupport <nhatbien97@gmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
-Filename: ./deb/com.supportjailbreak.pulloverprovitho_2.1.1_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.pulloverprovitho_2.1.1_iphoneos-arm.deb
 Size: 1562714
 MD5sum: 49adc5074566b83809cc5bfee45a891d
 SHA1: 6ef127b6abf16ebea97d385c275a88413adb1cbc
@@ -829,7 +829,7 @@ Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 5114
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
-Filename: ./deb/com.supportjailbreak.safariplusVN_1.7.12_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.safariplusVN_1.7.12_iphoneos-arm.deb
 Size: 1876230
 MD5sum: 54402d7c91ccc74b817b040733310a00
 SHA1: 50ccbf482a135801a91a3fe33c3c2b37df6a0f87
@@ -849,9 +849,9 @@ Package: com.supportjailbreak.safariwallpapervitho
 Architecture: iphoneos-arm
 Version: 1.2
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.muirey03.libimagepicker
-Filename: ./deb/com.supportjailbreak.safariwallpapervitho_1.2_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.safariwallpapervitho_1.2_iphoneos-arm.deb
 Size: 27500
 MD5sum: d1caa977cd0a341054ced3c3382334b1
 SHA1: 1d8750b675cf505c1075c807174ba94e1a56105f
@@ -866,10 +866,10 @@ Package: com.supportjailbreak.screenshotxVN
 Architecture: iphoneos-arm
 Version: 0.4
 Section: Addons (Apps)
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends:
 Conflicts:
-Filename: ./deb/com.supportjailbreak.screenshotxVN_0.4_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.screenshotxVN_0.4_iphoneos-arm.deb
 Size: 33693134
 MD5sum: 9433deebddab543d1f69e964edae0df2
 SHA1: b49470fa78d558512ee47347672b314b212b7a29
@@ -886,10 +886,10 @@ Package: com.supportjailbreak.snellviethoa
 Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 376
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.14), preferenceloader
-Filename: ./deb/com.supportjailbreak.snellviethoa_1.1_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.snellviethoa_1.1_iphoneos-arm.deb
 Size: 77804
 MD5sum: 922d7bb0789887b428bf497a77350b8e
 SHA1: 611f9791873a46cb89fa0591f734a2d342eca6ea
@@ -904,13 +904,13 @@ Package: com.supportjailbreak.snowboardVH
 Architecture: iphoneos-arm
 Version: 1.4.0~Beta4
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 4788
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./deb/com.supportjailbreak.snowboardVH_1.4.0~Beta4_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.snowboardVH_1.4.0~Beta4_iphoneos-arm.deb
 Size: 2269304
 MD5sum: da429b127bec7b049a539c72e88d2667
 SHA1: ad046a2145685562cf8371cbd32b262f48d087cf
@@ -925,10 +925,10 @@ Package: com.supportjailbreak.socialdownloader
 Architecture: iphoneos-arm
 Version: 1.2-1
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 1744
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./deb/com.supportjailbreak.socialdownloader_1.2-1_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.socialdownloader_1.2-1_iphoneos-arm.deb
 Size: 587580
 MD5sum: 6a3845faeaea03f19d71f5f5c1b2e65c
 SHA1: a0b3bc2fcd694ff54528242123e1a894aa2e8f13
@@ -943,11 +943,11 @@ Package: com.supportjailbreak.tiktoknoads
 Architecture: iphoneos-arm
 Version: 1.3
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 163
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: netskao.awemehack
-Filename: ./deb/com.supportjailbreak.tiktoknoads_1.3_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.tiktoknoads_1.3_iphoneos-arm.deb
 Size: 20612
 MD5sum: 7700e24a762d0a260bbebb9939efda48
 SHA1: f8ccef7bd31bf8c54afb13f69af5d13f94e25551
@@ -966,10 +966,10 @@ Package: com.supportjailbreak.titanvithoa
 Architecture: iphoneos-arm
 Version: 1.2.3
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Conflicts: com.spicat.youpip
-Filename: ./deb/com.supportjailbreak.titanvithoa_1.2.3_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.titanvithoa_1.2.3_iphoneos-arm.deb
 Size: 160444
 MD5sum: ea539c88645fdec23679d2efcb317e50
 SHA1: 184997cdcb3527e85fa1f1c799602f42af67dabf
@@ -984,9 +984,9 @@ Package: com.supportjailbreak.translationvitho
 Architecture: iphoneos-arm
 Version: 1.4.9
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
-Filename: ./deb/com.supportjailbreak.translationvitho_1.4.9_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.translationvitho_1.4.9_iphoneos-arm.deb
 Size: 177542
 MD5sum: 79294297df13eacd57b0d93f41734738
 SHA1: 392ee8728d16bea6292dbe7e22f16054652ffa77
@@ -1004,9 +1004,9 @@ Package: com.supportjailbreak.ventanavietho
 Architecture: iphoneos-arm
 Version: 1.6.2
 Section: Tweaks
-Maintainer: Giang Phạm  <Nhatbien97@gmail.com>
+Maintainer: Biện Văn Nhật  <Nhatbien97@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000) | org.coolstar.libhooker, preferenceloader (>= 2.2.2), org.coolstar.ldid
-Filename: ./deb/com.supportjailbreak.ventanavietho_1.6.2_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.ventanavietho_1.6.2_iphoneos-arm.deb
 Size: 1666
 MD5sum: 9825ceba323acb530d4a5fa0c7c35d3e
 SHA1: fd4156d2cc16649412682b5178ffa2dee100a9ec
@@ -1014,20 +1014,20 @@ SHA256: 698880a2a983f81f75e28bcdaff544cae63843f83872e6e2125423c03a3814b2
 SHA512: e9696331fc17bd1115520d6e2cbeb55ddbbee1da03d42a0078055a355f1250324af98153b0f1dfcbb48f587fade702cade04e1a39ce65f0d46ea8bb1be305f21
 Description: Gói tiếng việt dành cho Ventana
 Name: Ventana (gói Tiếng Việt)
-Author: Giang Phạm <vangiangcbcm@gmail.com>
+Author: Biện Văn Nhật <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 Depiction: https://bvnsupport-jailbreak.github.io/package/com.supportjailbreak.ventanaviethoa/
-dev: Giang Phạm
+dev: Biện Văn Nhật
 
 Package: com.supportjailbreak.videoBG
 Architecture: iphoneos-arm
 Version: 0.6
 Section: Addons (Tweaks)
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 596
 Depends: mobilesubstrate
 Conflicts:
-Filename: ./deb/com.supportjailbreak.videoBG_0.6_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.videoBG_0.6_iphoneos-arm.deb
 Size: 273706
 MD5sum: 19e5a9a62c9518d4584c5e8c44d85ab3
 SHA1: b097e1a124484c1f6f561b8afab9a8886d8d3c0a
@@ -1044,10 +1044,10 @@ Package: com.supportjailbreak.yobunprovietho
 Architecture: iphoneos-arm
 Version: 3.9.5
 Section: Tweaks
-Maintainer: Giang Phạm <nhatbien97@gmail.con>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.con>
 Installed-Size: 1100
 Depends: mobilesubstrate
-Filename: ./deb/com.supportjailbreak.yobunprovietho_3.9.5_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreak.yobunprovietho_3.9.5_iphoneos-arm.deb
 Size: 588846
 MD5sum: 5e98d6fe3f8f4f39a522adc46104adea
 SHA1: fbb4c5a281dc36a139d74d4332e3ef1761e27e16
@@ -1062,10 +1062,10 @@ Package: com.supportjailbreakbvn.appshacksviethoa
 Architecture: iphoneos-arm
 Version: 4.4
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 6220
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./deb/com.supportjailbreakbvn.deb
+Filename: ./debfiles/com.supportjailbreakbvn.deb
 Size: 3077186
 MD5sum: fafc9d188cb61de5c9d78a71173c3546
 SHA1: 82703e3b68de513cd8f472513bf435b6895ef017
@@ -1082,10 +1082,10 @@ Package: com.supportjailbreakvn.antiprofilesrevoke
 Architecture: iphoneos-arm
 Version: 1.1-1
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Installed-Size: 109
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./deb/com.supportjailbreakvn.antiprofilesrevoke_1.1-1_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjailbreakvn.antiprofilesrevoke_1.1-1_iphoneos-arm.deb
 Size: 8012
 MD5sum: 14c7d712682ea66b995f22f021ac27d4
 SHA1: 504912a8663b41b4098698e26ee4538fc2d6f4e5
@@ -1104,9 +1104,9 @@ Package: com.supportjb.CputoolVN
 Architecture: iphoneos-arm
 Version: 1.9
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, com.spark.libsparkapplist
-Filename: ./deb/com.supportjb.CputoolVN_1.9_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjb.CputoolVN_1.9_iphoneos-arm.deb
 Size: 2262
 MD5sum: 390e40e4d16caf4e085492311b9845b8
 SHA1: 33d8ba3d208bd7c2f48f7d8daba0b78b15762551
@@ -1114,16 +1114,16 @@ SHA256: 7e4d99781f97919e3b997ebd506f05bc1d77d516be303ba35ed6b6cb75763e5d
 SHA512: 6226005e333fa621ebcba190ae3db885f013a58976cb8f0b3c040b768a77b2e3a9c670a6778768e2e230db784095aca084f522a78f2eeb85450840d1ec0d7d78
 Description: Gói tiếng Việt dành cho Cputool!
 Name: CPUTool (gói tiếng Việt)
-Author: Giang Phạm
+Author: Biện Văn Nhật
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
 
 Package: com.supportjilbreak.cydownvn
 Architecture: iphoneos-arm
 Version: 7.1.1
 Section: Tweaks
-Maintainer: Giang Phạm <vangiangcbcm@gmail.com>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./deb/com.supportjilbreak.cydownvn_7.1.1_iphoneos-arm.deb
+Filename: ./debfiles/com.supportjilbreak.cydownvn_7.1.1_iphoneos-arm.deb
 Size: 4358188
 MD5sum: 5203eb5001f1c34c484e7c7db2c2fb49
 SHA1: 1a8dbb7f18e79b5adf24c316e1846417e298f95e
@@ -1144,7 +1144,7 @@ Installed-Size: 256
 Depends: firmware (>=2.0)
 Conflicts: com.ericasadun.utilities, com.bingner.plutil
 Replaces: com.bingner.plutil
-Filename: ./deb/plutil_0.1.deb
+Filename: ./debfiles/plutil_0.1.deb
 Size: 69220
 MD5sum: b555e1373d89313e7adb25c93bc44193
 SHA1: 4ecd37dc7038c82af40d9777a40372753028207f
@@ -1162,12 +1162,12 @@ Package: ru.rj.afsocial
 Architecture: iphoneos-arm
 Version: 1.2
 Section: Tweaks
-Maintainer: Giang Phạm
+Maintainer: Biện Văn Nhật
 Installed-Size: 6500
 Depends: mobilesubstrate
 Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
 Replaces: sileot.afsocial
-Filename: ./deb/ru.rj.afsocial_1.deb
+Filename: ./debfiles/ru.rj.afsocial_1.deb
 Size: 3483896
 MD5sum: a12e85619c743c927237c2771b1914a1
 SHA1: 61691fb0a6e79f24fa71abb5671fc0d3c6e2fbd4
@@ -1184,10 +1184,10 @@ Package: ru.rj.youtubelite
 Architecture: iphoneos-arm
 Version: 0.9.2-beta
 Section: Tweaks
-Maintainer: Giang Phạm <nhatbien97@gmail.con>
+Maintainer: Biện Văn Nhật <nhatbien97@gmail.con>
 Installed-Size: 562
 Depends: mobilesubstrate, preferenceloader
-Filename: ./deb/ru.rj.youtubelite_0.9.2-beta_iphoneos-arm.deb
+Filename: ./debfiles/ru.rj.youtubelite_0.9.2-beta_iphoneos-arm.deb
 Size: 86920
 MD5sum: 062c1c2a33b9148a13967ba954d19986
 SHA1: e5b232bc2f904bda936adb093af51e21b3cfacfb
